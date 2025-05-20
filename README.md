@@ -1,4 +1,14 @@
 # ExpenseTrackerMiniApp
+=> Key features requirement
+    
+    Add income and expenses
+    
+    Categorize their transactions (e.g., Food, Rent, Travel)
+    
+    View monthly summaries
+    
+    Save/load data from a file
+
 
 #Output screenshot
 Reading from a file
