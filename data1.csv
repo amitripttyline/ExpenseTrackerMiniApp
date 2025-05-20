@@ -1,0 +1,9 @@
+type,category,amount,date
+income,salary,4000.0,01-05-2025
+expenses,food,2000.0,03-05-2025
+income,rent,10000.0,04-05-2025
+expenses,buisness,12000.0,10-05-2025
+income,share,4000.0,01-05-2025
+expenses,emi,2000.0,03-05-2025
+income,sideincome,10000.0,04-05-2025
+expenses,buisness,12000.0,10-05-2025
